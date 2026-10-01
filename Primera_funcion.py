@@ -1,0 +1,1 @@
+print("En este espacio se definirán las funciones para el dashboard")
